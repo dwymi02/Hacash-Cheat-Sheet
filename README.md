@@ -6,5 +6,5 @@ The Hacash Cheat Sheet was put together to help those interested in the Hacash p
 
 The Hacash home page [Hacash is an open source cryptocurrency for large-scale payment and real-time settlement with high "Monetary Nature"](https://hacash.org)
 
-##Donations to Hacash:
-###After reviewing the Hacash Cheat Sheet and would like to support our efforts to advance Hacash, please consider helping by donating using the Hacash.org public key wallet: [1KSXVdjR9YJQ92fWqJRDuoJtci8TaDeK8q]
+## Donations to Hacash:
+### After reviewing the Hacash Cheat Sheet and would like to support our efforts to advance Hacash, please consider helping by donating using the Hacash.org public key wallet: [1KSXVdjR9YJQ92fWqJRDuoJtci8TaDeK8q]
