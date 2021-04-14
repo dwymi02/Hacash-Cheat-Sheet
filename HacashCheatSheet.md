@@ -31,10 +31,10 @@
 ##Social media:
 
 ###A list of various social media platforms, where once you join, you will be able to ask questions and find resources to help you learn of the Hacash currency and its utility
-* https://hacashtalk.com [A good resource for Hacash discussions]
-* https://t.me/hacash [Hacash Community]
-* https://t.me/HacashPool [HacashPool]
-* Discord [See link at the left-hand bottom side of Hacash home page; copy link, then paste link into Discord]
+* hashtalk.com: [A good resource for Hacash discussions](https://hacashtalk.com)
+* Telegram group: [Hacash Community](https://t.me/hacash)
+* Telegram group: [HacashPool](https://t.me/HacashPool)
+* Discord: [See link at the left-hand bottom side of Hacash home page; copy link, then paste link into Discord]
 * Twitter accounts: @HacashWorld @HacashPool
 * YouTube: [Hacash Mining Guide | Solo & Join Pool | Windows | CPU Mining](https://www.youtube.com/watch?v=oebtvRWKj9c)
 
