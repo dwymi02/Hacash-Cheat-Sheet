@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: Apr-14-2021
+##### Last updated: Apr-15-2021
 
-##### Version: 0.1.4
+##### Version: 0.1.6
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -47,7 +47,7 @@
 * Hacash uses x16rs for PoW, comprised of 16 versions of SHA3. The hash algorithms used by x16rs are [Blake, BMW, Groestl, Jh, Keccak, Skein, Luffa, Cubehash, Shavite, Simd, Echo, Hamsi, Fugue, Shabal, Whirlpool, SHA512]
 * Hacash is exclusively CPU intensive. Hacash is not reliant on memory. So when it comes to workstations one should focus on the number of cores and CPU speed. Simple rule, the more cores and the higher the CPU speed, the better will be your mining results.
 
-## Creating your own Hacash wallet
+## Creating your own Hacash wallet:
 
 ### In this section you will be introduced to the Hacash wallet. The Hacash wallet are the keys, consisting of a public / private key that provides access to Hacash, a world leading alternative to the debt fiat currencies, run by the Global Central Banks
 Many people are confused by the use of the public / private keys used by Hacash. To help you to understand the public / private key relationship used by Hacash, I will use your typical bank analogy.
@@ -68,7 +68,7 @@ There are two methods of creating a Hacash wallet, [Online Wallets](https://wall
 It is absolutely critical to understand that the public / private keys are inseparable. Once you decide to create a Hacash wallet, you must ensure that every possible means is employed to safely secure your Hacash wallet. If you lose either your public or private Hacash wallet keys, you will have lost access to your Hacash resources. While you can publicly advertise your Hacash public key to the world, your Hacash private key must be kept secret.
 
 
-## Setting up to pool mine Hacash
+## Setting up a Hacash pool miner:
 
 ### In this section we will be discussing how to set up your workstation to begin pool mining Hacash
 
@@ -142,7 +142,8 @@ The results will appear as follows (formatted to fit):
 
 
 
-## Setting up to solo mine Hacash
+## Setting up a Hacash solo miner:
+
 ### In this section we will be discussing how to set up your workstation to begin solo mining Hacash
 ### The software to run a Hacash solo miner either for UNIX/Linux or Windows can be accessed at [Full node mining](https://hacash.org/page/start_en.html#minernode) or from [Hacash Software Download link and Release log](https://github.com/hacash/miner/blob/master/doc/software_release_log.md).
 
@@ -216,7 +217,8 @@ Once you unpack the zip archives you will see two files, an executable, with the
     logs_url = http://127.0.0.1:3366/btcmovelogs
 
 
-## Hacash tutorials
+## Hacash tutorials:
+
 ### This section provides links to Hacash approved tutorials
 
 The following pdf, a step by step guide on how to get ready to mine Hacash [HacashPool Step by Step Setup Guide](https://hacashpool.com/HacashPool-Wallet-Mining-Node-Setup-Guide.pdf)
@@ -227,6 +229,7 @@ The following YouTube video provides a step by step guide on how to get ready to
 
 
 ## Hacash resources:
+
 ### This section provides links to Hacash resources
 
 Forums: [Mining the world's first PoW-based NFT by CPU](https://bitcointalk.org/index.php?topic=5266623.0)
@@ -243,4 +246,5 @@ Web page: [Unformatted list of Hacash nodes](http://hacash.net:3338)
 
 
 ## Donations to Hacash:
+
 ### If you found value in this Hacash Cheat Sheet and would like to support our efforts to advance Hacash, please consider helping by donating using the Hacash.org public key wallet: [1KSXVdjR9YJQ92fWqJRDuoJtci8TaDeK8q]
