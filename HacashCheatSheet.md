@@ -6,7 +6,7 @@
 
 ##### Last updated: Apr-14-2021
 
-##### Version: 0.1.1
+##### Version: 0.1.3
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -79,6 +79,8 @@ It is absolutely critical to understand that the public / private keys are insep
 ### Notice the value for [hashrate:], the value reads [12.566TH/s]. This is what you want to look for. Possible values, from lowest to highest are [GH/s], [TH/s], [PH/s]. If your miner is reporting a hash rate in [GH/s] or low [TH/s], then you should be pool mining. On the other hand, if your miner is reporting hash rates in the high [TH/s] or even [PH/s], then you should consider solo mining. That having been said, even if you have extremely high hash rates, you can still pool mine. That is a decision each individual must make for themselves.
 
 ### Now we will quickly go over some of the differences between Hacash pool mining and Hacash solo mining. We will start with Hacash solo mining. When one Hacash solo mines the only reward is when the Hacash miner solves the nonce for the Hacash blockchain. Which is the primary reason why individuals with moderately powered computers must pool mine. In pool mining, there are two methods for receiving Hacash rewards. The most lucrative is solving the nonce for the Hacash blockchain, the other being rewarded with Hacash shares for contributing to the integrity and security of the Hacash blockchain. Once a pool miner accrues enough Hacash rewards, the pool will send to your public Hacash public key wallet, your accrued Hacash shares. Over time, one can accumulate a vast amount of Hacash.
+
+### Another distinguishing characteristic between Hacash pools and Hacash nodes is every Hacash pool must have three ports open to the world, these ports are port # 3338 for basic nodes, port # 3339, which connects the pool to Hacash client applications, viz., the executable we run to perform mining operations and port # 3340, which allows users to monitor their Hacash clients, along with other clients also connected to the pool.
 
 ### The software to run a Hacash pool miner either for UNIX/Linux or Windows can be accessed at [Join mining pool mining](https://hacash.org/page/start_en.html#poolworker) or from [Hacash Software Download link and Release log](https://github.com/hacash/miner/blob/master/doc/software_release_log.md).
 
