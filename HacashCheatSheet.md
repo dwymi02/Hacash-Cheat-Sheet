@@ -6,7 +6,7 @@
 
 ##### Last updated: Apr-14-2021
 
-##### Version: 0.1.3
+##### Version: 0.1.4
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -236,7 +236,7 @@ Web page: [Current Hacash supply](https://ha.cash/totalsupply)
 
 Web page: [HACASH 3 REWARDS PER BLOCK COUNTDOWN](http://hacash.ml)
 
-Web page: [Unformatted list of Hacash nodes](http://95.217.182.40:3338)
+Web page: [Unformatted list of Hacash nodes](http://hacash.net:3338)
 
 
 ## Donations to Hacash:
