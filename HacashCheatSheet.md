@@ -238,6 +238,10 @@ Article: [What is Hacash?](https://kenyou.medium.com/what-is-hacash-52bcd7b438ea
 
 Article: [Hacash : An Open source Encryption Project with “Monetary” as its Core Target](https://vaibhavc.medium.com/hacash-an-open-source-encryption-project-with-monetary-as-its-core-target-c11c03188f1d)
 
+Web page: [Alternative Hacash download including macOS](download.ha.cash)
+
+Web page: [3rd party github repository for macOS and amdhf](https://github.com/jcb55/jcb-hacash/releases/tag/v2021.4.10)
+
 Web page: [Current Hacash supply](https://ha.cash/totalsupply)
 
 Web page: [HACASH 3 REWARDS PER BLOCK COUNTDOWN](http://hacash.ml)
