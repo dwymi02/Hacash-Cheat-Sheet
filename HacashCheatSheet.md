@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: Apr-15-2021
+##### Last updated: Apr-16-2021
 
-##### Version: 0.1.6
+##### Version: 0.1.9
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -138,6 +138,43 @@ The results will appear as follows (formatted to fit):
     5	1Miy6qEWuSYydaFY5BiCBuwpA8Z6aQLaMv	   0	   430551781343229	 0/0					ㄜ0:240			ㄜ0:240			   ㄜ0:240
 
 
+### Following is a brief explanation to help you understand the web page contents. In the first line we have:
+
+    FeeRatio: 10.00 %, Addr: 1BGxnkVmNQECbvBYbvdquFQZBLgBpVLkYr
+
+### FeeRatio is the fee the pool charges each miner for the privilege of using their pool. Next, we have Addr: followed by [1BGxnkVmNQECbvBYbvdquFQZBLgBpVLkYr], which is the pools Hacash public key. Reminder, this Hacash public key can be plugged into the Hacash explorer [Hacash Explorer](https://explorer.hacash.org/address/1BGxnkVmNQECbvBYbvdquFQZBLgBpVLkYr) and you can see all their Hacash transactions. For example, you have been mining on a Hacash pool and you have been awarded shares of Hacash, you could use the pools Hacash public key that will display recent transactions in the Hacash explorer. You should then look for your own Hacash public key, which will show up as one of the many transactions. Your transaction, when you find it, will contain your Hacash public key, the amount of the transaction and the time the transaction occurred. I find this to be very useful.
+
+### Next line we have:
+
+    Port: 3339
+
+### Port: 3339, provides information about which TCP port your pool uses for the Hacash explorer.
+
+### Next line we have:
+
+    TotalClients: 9
+
+### TotalClients: 9, provides information on the number of clients presently mining on this pool. In our example there are a total of five miners, identified by the Hacash public key, two of which are not active. Of the three active miners, one miner has a total of six rigs mining. While another miner has two rigs. This information can be helpful in determining which pool you want to participate with.
+
+### Lastly, we have our column headers, which summarizes each of the miners information regarding recent mining operations on this pool. The column headers are:
+
+    Address  Clients  PeriodPowWorth  FindBlocks/Coins  CompleteRewards  DeservedRewards  UnconfirmedRewards
+
+### [Address] represents the Hacash public key used by this miner
+
+### [Clients] represents the number of rigs, actual computers running the Hacash Pool miner, deployed by this miner
+
+### [PeriodPowWorth] represents, for a specified period of time, a measurement of the contribution the total of all the miners rigs have contributed to finding the Hacash nonce, viz., the miners hashing rate. The higher this value means the greater the chance of this miners rigs will be in finding the Hacash nonce.
+
+### [FindBlocks/Coins] represents the number of Hacash blocks each miner has found, since they joined this pool. For example, miner # 3, with 1 rig has not yet solved any Hacash nonce. While miner # 1, with 6 rigs has been able to solve 24 Hacash nonce blocks
+
+### [CompletedRewards] represents the amount of [Hacash] that has been transferred to their Hacash public key. As you can see Miner # 1 has amassed a significant amount of Hacash. This alone, should demonstrate, the potential Hacash offers to all those that can reap the available benefits.
+
+### [DeservedRewards] represents the current amount of Hacash that will eventually deposited into the miners Hacash public key. Based on miner activity, Hacash rewards are accumulated, then paid to the miner at certain thresholds, which changes, again based on mining activity.
+
+### [UnconfirmedRewards] represents the current amount of Hacash that will eventually be transferred from [UnconfirmedRewards] over to [DeservedRewards]. Once Hacash rewards have been confirmed and certain threshold, which change, based on mining activity, eventually [UnconfirmedRewards] will be migrated over to [DeservedRewards]. In summary, based on observations, one with a good set of mining rigs could achieve on average of at least one payout to your Hacash public key on a daily basis. Obviously, those with the wherewithal to have significant number of rigs and processing power will achieve better results.
+
+
 ### Lastly, setting proper expectations for Hacash pool mining. Hacash mining is different from mining most other cryptocurrencies. Most cryptocurrency PoW miners are based on a single hash algorithm. So once the mining application has established itself, these mining applications will drone on at a constant hash rate, seldom ever deviating from it's established norms. Mining Hacash, if anything, is dynamic. This the result of the use of the x16rs hash algorithm. Instead of mining at a constant rate, Hacash hash rates will fluctuate. The way I view this fluctuation is to view these changes as changes in cycles. I have observed Hacash mining at low hash rates, low for my mining rigs would be around 5TH/s, for short periods of time and also for very long periods of time. I have also observed Hacash mining at higher hash rates for extended periods of time, elevated levels for my mining rigs would be around 55TH/s, sometimes for a couple of hours an even for several days consecutively. Some people become frustrated mining at lower hash rates, they want to always mine at the higher hash rate all of the time. How one can mitigate the potential for mining low hash rates would be to add additional machines. The decision to add additional computing power is up to the individual to make, in order to meet their specific requirements. As for myself, accustomed am I with the unique characteristics embodied in the x16rs algorithm. I understand that the Hacash PoW is working as designed. When the Hacash PoW enters these long, extended cycles at lower hash rates, these long cycles will then be followed by long, sometimes extended longer cycles at high or even exceedingly higher hash rates. Once these longer higher hash rates begin to ramp up, the opportunity for solving Hacash blocks increases. By understanding how the Hacash PoW works, the miner will see the benefits of allowing the algorithm to perform the job it was designed to perform.
 
 
@@ -241,6 +278,8 @@ Article: [Hacash : An Open source Encryption Project with “Monetary” as its 
 Web page: [Alternative Hacash download including macOS](download.ha.cash)
 
 Web page: [3rd party github repository for macOS and amdhf](https://github.com/jcb55/jcb-hacash/releases/tag/v2021.4.10)
+
+Web page: [Donation for Hacash Second Exchange Listing](https://hacashtalk.com/t/donation-for-hacash-second-exchange-listing/93)
 
 Web page: [Current Hacash supply](https://ha.cash/totalsupply)
 
