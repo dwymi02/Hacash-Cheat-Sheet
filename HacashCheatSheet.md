@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: Apr-16-2021
+##### Last updated: Apr-21-2021
 
-##### Version: 0.1.9
+##### Version: 0.1.10
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -280,6 +280,10 @@ Web page: [Alternative Hacash download including macOS](download.ha.cash)
 Web page: [3rd party github repository for macOS and amdhf](https://github.com/jcb55/jcb-hacash/releases/tag/v2021.4.10)
 
 Web page: [Donation for Hacash Second Exchange Listing](https://hacashtalk.com/t/donation-for-hacash-second-exchange-listing/93)
+
+Web page: [CoinGecko cryptocurrency data aggregator](https://www.coingecko.com/en/coins/hacash)
+
+Web page: [Coinpaprika research platform](https://coinpaprika.com/coin/hac-hacash/?__cf_chl_jschl_tk__=4f82b5a694f6636542f41059c07492281d95e0e6-1619014060-0-AbpkxqabyOKGC8NEFEgd5de3SRdATSD0UJPp4aMdkPyDvYoGW8iJc123gkqFgZU3MjNS0XKQpVp8Es-IICj6sZbXdxrLCrjhxO410V0ppwzsFgtQHuyCT90Kz1xF6c8Urlasj83q2BDo-hht-fQA9l_onCjr0HfBYZ0M8jnkOgUaA1BXb0HYzx6dc8CXLJAe33NcRMowT_fwH6kBk_zJMs45m4i_HN5J53teADdu94MqPdKyrYJS6FI9I2gP-hz0jowzEVijUoE7vgkA4X1gXVt5Nmw8W-3SGURyxUOAIvf_0eonv6JTFbWHuxrcQMjfHcsAbksheO68EYMgjF9Cs_w3QYK034ACuX1E2THIuX-bs7QU0A-Su0ulPXvxwmZmFdLE998MVjBtMzZXwprIl_4x8wODh00ln6mP_dFc55p3zcR72D8r-QqNmBBP10SI3fvh_HZeq2iVJya33ZdrbsQ)
 
 Web page: [Current Hacash supply](https://ha.cash/totalsupply)
 
