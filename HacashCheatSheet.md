@@ -23,7 +23,7 @@
 ## Interesting Hacash reading:
 
 ### An interesting question and response regarding "Why Hacash is better than Bitcoin?"
-* [Why hacash is better than Bitcoin?]([https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
+* [Why hacash is better than Bitcoin]([https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
 
 ### Ken You responds:
 
