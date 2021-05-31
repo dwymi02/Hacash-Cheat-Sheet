@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: Apr-21-2021
+##### Last updated: May-31-2021
 
-##### Version: 0.1.10
+##### Version: 0.1.11
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -15,10 +15,31 @@
 ## Important resources:
 
 ### These are Hacash resources that you will need to interface with the Hacash currency
-* https://github.com/hacash/miner/blob/master/doc/software_release_log.md [Hacash Software Download]
-* https://wallet.hacash.org [Online Wallet for Hacash]
-* https://explorer.hacash.org [Hacash Explorer]
-* http://hacash.ml [Hacash 3 Rewards Per Block Countdown]
+* [Hacash Software Download](https://github.com/hacash/miner/blob/master/doc/software_release_log.md)
+* [Online Wallet for Hacash](https://wallet.hacash.org)
+* [Hacash Explorer](https://explorer.hacash.org)
+* [Hacash 3 Rewards Per Block Countdown](http://hacash.ml)
+
+## Interesting Hacash reading:
+
+### An interesting question and response regarding "Why Hacash is better than Bitcoin?"
+* [Why hacash is better than Bitcoin?]([https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
+
+### Ken You responds:
+
+### This is a great question. Here is my 5 reasons why Hacash is better than Bitcoin from the money perspective:
+* 1. Divisibility ****--**** Hacash’s divisibility is 10^248, Bitcoin is only 10^8
+* 2. Privacy ****--**** Hacash has optional privacy transaction feature, but Bitcoin doesn’t have it.
+* 3. Fairness of Production Competition ****--**** Unlike Bitcoin, HAC has no upper limit. Its block reward mechanism follows the Fibonacci sequence. Within the first 6 years, block rewards will be 1, 1, 2, 3, 5, 8 per block as determined by block height. Once the block rewards reach 8 HAC per block, the reward will remain at 8 for ten years, and then start to follow the sequence back down 5, 3, 2, 1,1, each block reward period lasting ten years; finally reaching 22 million in 66 years. After that, 1 HAC will be rewarded in each block forever**. Through this mechanism, the relative fairness of production competition among subsequent participants was ensured. Bitcoin’s halving every four years from the beginning of 50 resulted in subsequent participants being at a disadvantage in production competition due to information gap. What’s more, Hacash’s X16RS algorithm should be hard than Bitcoin’s sha-256 to develop the rigs from CPU to GPU mining, so that the competition is more fair.
+* 4 Elasticity ****--**** Bitcoin lacks the elasticity that gold has as the money. When the price of gold rises sharply, it will be mined more, while the price of gold will be mined less. However, no matter how the price of Bitcoin changes, it is always produced in a fixed amount, lacking money elasticity. In addition, in the age when gold was used as money, it also had metals with different characteristics. For example, a multi-standard system composed of gold, silver, and copper can bring more flexibility to the market. Such an elasticity setting is not necessarily the best, but it must be better than a single gold standard. Such an elasticity setting is left to the market, it gives people more choice, and everyone can participate in it. Crypto currency also needs to introduce such a multi-standard system to solve the problem of money being spent by others. The total amount of Bitcoin is unlimited and a single currency, which only solves the problem of our holdings, but does not solve the problem of our spending. There are three currency designs in the entire Hacash, namely HAC, Hacash Diamond and Bitcoin.
+
+* HAC can be divided infinitely, and the total amount has no upper limit.
+* Hacash Diamond (HACD) is indivisible, and the total amount has an upper limit.
+* Bitcoin is divisible, and the total amount has an upper limit. At the same time, the number of HAC can be increased through the transfer of Bitcoin in Hacash chain.
+
+The unlimited division of HAC and the unlimited total amount ensure that our overall attitude towards HAC is to spend instead of storage. The indivisibility of HACD and the upper limit of total amount ensure that our overall attitude towards HACD is to collect and store, not spend, and Bitcoin’s role is to be the originator of crypto currency, through its transfer to increase the number of HAC, increase the recognition of HAC, and more importantly, the balance of Hacash’s entire monetary system. When the price of HAC rises to the point where the Bitcoin transfer is profitable, someone will transfer Bitcoin to issue additional HAC, and at the same time, to a certain extent, restrain the price increase of HAC. The HAC whose price has fallen will be used to bid for HACD, ​after the bidding continued to rise, it drove the price of HAC, and Bitcoin came to transfer additional HAC. The whole process forms a monetary elasticity mechanism, and such a mechanism does not need to be separated from the relationship between gold, silver and copper, but directly occurs in a one single blockchain.
+
+* 5. Transaction - Layer 2 solution ****--**** The technology that allows Bitcoin to approach the speed of digital currency is called the Lightning Network, but the Lightning Network has the problem of holding Bitcoin. The technology that Hacash can reach the same speed as digital currency is called the channel chain settlement network, which completely eliminates the problem of holding HAC, and also supports Bitcoin transactions without holding any Bitcoins. But ****“Better than Bitcoin”**** may really be an inappropriate phrase. Because hacash essentially does not intend to kill Bitcoin, on the contrary, it is to integrate it and become a part of itself. The phrase “better than Bitcoin” triggers resistance because it forces people to choose between hacash and Bitcoin. So I believe that Hacash chain will absorb Bitcoin and retain the value of Bitcoin is the way to make both Bitcoin and Hacash successful. They coexist side by side.
 
 ## Public Hacash pools:
 
@@ -27,6 +48,14 @@
 ### Note: mining pools differ from solo miners, in that mining pools reward miners with share rewards, without having to solve Hacash blocks. While solo miners are only rewarded when they solve the nonce for a Hacash block
 * http://hacash.net [Fee 0.00%; Mining hacash.net:3339; Explorer hacash.net:3340]
 * http://www.hacpool.com [Fee 0.10%; Mining 104.217.254.247:3339 -or- 163.123.181.77:3339; Explorer 104.217.254.247:3340 -or- 163.123.181.77:3340]
+
+### Following is excerpted from [Pool Rewards Explained](https://hacashpool.com/start-mining)
+
+The mining pool rewards both block producers and non-block producers in the pool ensuring that everyone contributing mining power is rewarded. Specifically, in addition to any transaction processing fees for a mined block of the mining pool, the block producers receive 50% of the reward separately, and the remaining 50% of the block reward is divided among the other pool miners based on their mining power contribution for the time period.
+
+For example, let’s say we have 5 Pool Workers (abbreviated “PW”). Each PW contributes equal amounts of mining power to the pool (20% each). PW-1 then successfully discovers the next block. PW-1 will receive 50% of the block reward. PWs-2, 3, 4 and 5 will then equally split the remaining 50% of the block reward since they were contributing equal mining power. Of course, in the real world, different PWs will contribute different amounts of mining power. Each PW is rewarded based on the power that is being contributed to the pool.
+
+A special note for those with powerful mining machines: If a certain address contributes more than 50% of the total computing power of the mining pool, the excess reward will be automatically distributed to other participants. In other words, if you have a lot of computing power, the best way is to spread it in multiple different addresses and decentralize the computing power.
 
 ## Social media:
 
@@ -284,6 +313,8 @@ Web page: [Donation for Hacash Second Exchange Listing](https://hacashtalk.com/t
 Web page: [CoinGecko cryptocurrency data aggregator](https://www.coingecko.com/en/coins/hacash)
 
 Web page: [Coinpaprika research platform](https://coinpaprika.com/coin/hac-hacash/?__cf_chl_jschl_tk__=4f82b5a694f6636542f41059c07492281d95e0e6-1619014060-0-AbpkxqabyOKGC8NEFEgd5de3SRdATSD0UJPp4aMdkPyDvYoGW8iJc123gkqFgZU3MjNS0XKQpVp8Es-IICj6sZbXdxrLCrjhxO410V0ppwzsFgtQHuyCT90Kz1xF6c8Urlasj83q2BDo-hht-fQA9l_onCjr0HfBYZ0M8jnkOgUaA1BXb0HYzx6dc8CXLJAe33NcRMowT_fwH6kBk_zJMs45m4i_HN5J53teADdu94MqPdKyrYJS6FI9I2gP-hz0jowzEVijUoE7vgkA4X1gXVt5Nmw8W-3SGURyxUOAIvf_0eonv6JTFbWHuxrcQMjfHcsAbksheO68EYMgjF9Cs_w3QYK034ACuX1E2THIuX-bs7QU0A-Su0ulPXvxwmZmFdLE998MVjBtMzZXwprIl_4x8wODh00ln6mP_dFc55p3zcR72D8r-QqNmBBP10SI3fvh_HZeq2iVJya33ZdrbsQ)
+
+Web page: [CoinDataFlow CRYPTO CHARTS](https://coindataflow.com/en/currency/hacash)
 
 Web page: [Current Hacash supply](https://ha.cash/totalsupply)
 
