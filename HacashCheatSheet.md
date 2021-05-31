@@ -6,7 +6,7 @@
 
 ##### Last updated: May-31-2021
 
-##### Version: 0.1.11
+##### Version: 0.1.12
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -303,6 +303,8 @@ Forums: [Mining the world's first PoW-based NFT by CPU](https://bitcointalk.org/
 Article: [What is Hacash?](https://kenyou.medium.com/what-is-hacash-52bcd7b438ea)
 
 Article: [Hacash : An Open source Encryption Project with “Monetary” as its Core Target](https://vaibhavc.medium.com/hacash-an-open-source-encryption-project-with-monetary-as-its-core-target-c11c03188f1d)
+
+Question: [Why hacash is better than Bitcoin]([https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
 
 Web page: [Alternative Hacash download including macOS](download.ha.cash)
 
