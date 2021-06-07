@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: May-31-2021
+##### Last updated: Jun-07-2021
 
-##### Version: 0.1.12
+##### Version: 0.1.13
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -304,13 +304,21 @@ Article: [What is Hacash?](https://kenyou.medium.com/what-is-hacash-52bcd7b438ea
 
 Article: [Hacash : An Open source Encryption Project with “Monetary” as its Core Target](https://vaibhavc.medium.com/hacash-an-open-source-encryption-project-with-monetary-as-its-core-target-c11c03188f1d)
 
-Question: [Why hacash is better than Bitcoin]([https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
+Article: [Why Hacash is better than Bitcoin](https://hacashtalk.com/t/why-hacash-is-better-than-bitcoin/48)
 
 Web page: [Alternative Hacash download including macOS](download.ha.cash)
 
-Web page: [3rd party github repository for macOS and amdhf](https://github.com/jcb55/jcb-hacash/releases/tag/v2021.4.10)
+Web page: [3rd party Hacash github repository for macOS and amdhf](https://github.com/jcb55/jcb-hacash/releases/tag/v2021.4.10)
 
-Web page: [Donation for Hacash Second Exchange Listing](https://hacashtalk.com/t/donation-for-hacash-second-exchange-listing/93)
+Web page: [3rd party github repository -- Package hacunitstobase converts Hacash amounts from [:nnn] to base [:248]](https://github.com/dwymi02/hacunitstobase)
+
+Web page: [3rd party github repository -- List the PoW Power for all known Hacash Pools](https://github.com/dwymi02/Hacash-List-All-PoW-Pool-Power)
+
+Web page: [vindax.com -- Hacash exchange (N/A in U.S.A.)](https://vindax.com/faq/vindax-lists-hacash-hac-on-20210206-0800-am-utc.html)
+
+Web page: [Dex-trade -- Hacash exchange](https://dex-trade.com/spot/trading/HACUSDT)
+
+Web page: [Mining Pool Stats](https://miningpoolstats.stream/hacash)
 
 Web page: [CoinGecko cryptocurrency data aggregator](https://www.coingecko.com/en/coins/hacash)
 
