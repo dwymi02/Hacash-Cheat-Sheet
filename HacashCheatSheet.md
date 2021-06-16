@@ -4,9 +4,9 @@
 
 ##### Date: Apr-13-2021
 
-##### Last updated: Jun-07-2021
+##### Last updated: Jun-16-2021
 
-##### Version: 0.1.13
+##### Version: 0.1.14
 
 ## Home: [Hacash Home page](https://hacash.org)
 
@@ -292,6 +292,8 @@ The following pdf, a step by step guide on how to get ready to mine Hacash [Haca
 The following video provides a step by step guide on how to get ready to mine Hacash [HacashPool Mining Setup Tutorial](https://vimeo.com/449931688)
 
 The following YouTube video provides a step by step guide on how to get ready to mine Hacash [Hacash Mining Guide | Solo & Join Pool | Windows | CPU Mining](https://www.youtube.com/watch?v=oebtvRWKj9c)
+
+The following YouTube video provides a a helpful guide on how to use the Hacash number system [Understanding Decimals in HAC](https://www.youtube.com/watch?v=haxA5p1mRJM)
 
 
 ## Hacash resources:
